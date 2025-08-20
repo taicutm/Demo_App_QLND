@@ -53,8 +53,7 @@ npm run dev
 - Toggle active status: Edit user, check/uncheck "Hoạt động", save
 
 ## Screenshots
-[![Screenshot-2025-08-20-174153.png](https://i.postimg.cc/J7d5kn6P/Screenshot-2025-08-20-174153.png)](https://postimg.cc/yWcRqVzZ)
-
+[![Demo UI](https://i.postimg.cc/qR1SnTSy/screencapture-localhost-3000-2025-08-20-17-48-39.png)](https://postimg.cc/MMj92hWp)
 ## Notes
 - Ensure backend is running before starting frontend
 - You can change API URL in `.env.local`
