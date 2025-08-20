@@ -1,0 +1,12 @@
+-- CREATE TABLE users (
+--     id SERIAL PRIMARY KEY,
+--     name VARCHAR(100) NOT NULL,
+--     email VARCHAR(100) UNIQUE NOT NULL,
+--     active BOOLEAN DEFAULT TRUE
+-- );
+-- INSERT INTO users (name, email, active) 
+-- VALUES 
+-- ('Nguyen Van A', 'a@example.com', TRUE),
+-- ('Tran Van B', 'b@example.com', FALSE),
+-- ('Le Thi C', 'c@example.com', TRUE);
+select * from users
