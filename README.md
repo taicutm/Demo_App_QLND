@@ -55,7 +55,6 @@ npm run dev
 ## Screenshots
 ![Demo UI](https://postimg.cc/yWcRqVzZ)
 
-
 ## Notes
 - Ensure backend is running before starting frontend
 - You can change API URL in `.env.local`
