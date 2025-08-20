@@ -53,7 +53,8 @@ npm run dev
 - Toggle active status: Edit user, check/uncheck "Hoạt động", save
 
 ## Screenshots
-![Demo UI](./screenshot.png)
+![Demo UI](https://postimg.cc/yWcRqVzZ)
+
 
 ## Notes
 - Ensure backend is running before starting frontend
