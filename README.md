@@ -17,7 +17,7 @@ A simple full-stack web application for managing users, built with Next.js (Type
 
 ### 1. Clone the repository
 ```bash
-git clone (https://github.com/taicutm/Demo_App_QLND.git)
+git clone https://github.com/taicutm/Demo_App_QLND.git
 cd Demo_App_QLND
 ```
 
